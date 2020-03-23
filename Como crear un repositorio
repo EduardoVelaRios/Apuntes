@@ -1,0 +1,10 @@
+Como crear un repositorio
+
+*proyecto = Repositorio.
+-git init: Sirve para agregar la carpeta git a tu proyecto o reposito y iniciar el grabado de el proyecto.
+-git status: Aparece en rojo lo que hay en esa carpeta pero no esta registrado.
+-git add .: Sirve para agregar todos los archivos no registrados.
+-git commit: Sirve para que git tome una foto de como esta el proyecto en ese momento.
+-git commit -m "primer commit": Sirve para agregar un nombre al commit.
+-git checkout --.: Es para regresar una version anterior del proyecto.
+-git log: Sirve para ver los commit que hemos creado.
