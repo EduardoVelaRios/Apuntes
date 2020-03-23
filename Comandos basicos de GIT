@@ -1,0 +1,9 @@
+*Comandos de GIT.
+-git help: Sirve para ver la lista de comandos de git.
+-git help commit: Aparece la documentacion del manual de git.
+-git config --global user.name "lalo": Sirve para agregar un usuario.
+-git config --global user.email "eduradovelarios@gmail.com": Sirve para agregar un correo.
+-git config --global -e: Sirve para ver el usuario y el correo ingresados. Para salir del menu se pone :q.
+-clear: Sirve para limpiar la pantalla.
+-para agregar una ruta: Se pone cd y arrastras la carpeta deseada.
+-ls -al: Es para ver todos los archivos que contine la carpeta.
