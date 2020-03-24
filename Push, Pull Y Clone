@@ -1,0 +1,11 @@
+*push
+-push: el push nos ayuda a subir nuestro proyecto a github y asi tener un respaldo del proyecto y ademas asi pueden participar varias persona en el proyecto, modificarlo y llevar el control entre varios todo desde github.
+-git push -u origin master: es para seguir la rama maestra del proyecto o reposito de gitHub. se pone el comando y despues se pone la cuenta de github.y asi se subira el proyecto.
+-git push --tags: sirve para subir las versiones de los tag a git Hub.
+
+*pull
+-pull: Es cuando descargas un proyecto de github y puedes modificar y tambien Hacer un push para subir los cambios.
+-git pull: Se descarga los cambios que se realizaron en el proyecto desde github.
+
+*clone
+-git clone https://github.com/klerith/udemy-heroes.git: sirve para descargar proyectos de github o clonarlo. se coloca el comando git clone mas el url del repositorio (proyecto).
