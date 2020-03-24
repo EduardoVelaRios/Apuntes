@@ -1,0 +1,4 @@
+*para modificar un commit.
+-git commit --amend -m "actualizamos el README": Sirve para cambiar el nombre del commit anterior por si hubo algun error.
+-git reset --soft HEAD^: sirve para modificar un commit anterior al actual.
+-git commit -am "se actualizaron los archivos":es para guardar el commit y poner el mensaje en un mismo comando.
