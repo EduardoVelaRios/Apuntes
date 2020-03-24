@@ -1,0 +1,4 @@
+*Comando de git Hub
+-git hub: Es una plataforma de desarrollo colaborativo de software  para alojar proyectos.
+-git remote add origin https://github.com/klerith/udemy-heroes.git : sirve para agregar un origen remoto o un proyecto
+-git remote -v: sirve para ver el push y el fetch del proyecto.
