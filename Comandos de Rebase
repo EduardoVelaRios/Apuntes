@@ -1,0 +1,14 @@
+*Comandos del rebase
+
+-git rebase -i HEAD~4 : sirve para ordenar commit por si hubiera dos repetidos o quisieramos mover de lugar algun commit. se pone el comando git rebase -i HEAD~ Mas los commit que deceas modificar. unas vez dentro del menu oprimimos A para poder editar.
+
+*rebase squash
+-squash: es para fucionar dos o mas commit. por si ubiera repetidos. se coloca el comando  git rebase -1 HEAD~4 se abrira un menu oprimimos A para editar y en los commit repetidos en el ultimo ponemos la letra s o la palabra squash nos nos salimos del menu con la tecla esc y ponemos wq se abrira otro menu y hay borramos el commit repetido.
+
+*rebase reword
+-reword: sirve para modificar un commit se pone el comando  -git rebase -i HEAD~1 se abrira en menu en ese menu se oprime A para ditar y borramos la palabra pick y se pone r o reword salimos con esc qw y en el otro menu se modifica el titulo del commit se sale esc mas wq y enter y listo.
+
+*rebase edit
+-edit: sirve para editar un commit como si se guardaron dos cambios en un commit y los quieres separar. se pone -git rebase -i HEAD~2 y se abrira el menu se borra pck del commit que se quiera editar y se pone edit se sale ecs wq.
+-git reset HEAD^: sirve para revertir los cambios del ultimo commit y ahora si se agrega el archivo con el comando git add README.md y se hace un commit igual para el otro se agrega y se guarda el commit por separado.
+-git rebase --continue: es para que ya no salga el HEAD brnach y poder continuar.
