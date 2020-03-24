@@ -1,0 +1,3 @@
+*Para ver los tipos de commit.
+-git log --oneline: Sirve para ver los commit mas cortos.
+-git log --oneline --decorate --all --graph: Para ver los commit un poco mas resumidos pero con mejor vista.
