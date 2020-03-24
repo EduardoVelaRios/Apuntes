@@ -1,0 +1,8 @@
+*Para viajar de un commid a otro.
+-git reset --soft 345d7de: sirve para revertir a un determinado punto. Solo se pone el comando git reset --soft y se pega el comit que se decea.
+-git reset --mixed 869c6cz: sirve para cambiar o viajar a un commit pasado. solo se pone el comando git reset --mixed y se pega el commit que se decea. pero no elimina las modificaciones.
+-git reset --hard 860c6c2: sirve para viajar a otro commit pasado pero a diferencia del mixed este elimina los cambios a los commit, este es cuando ya de plano quieres volver y eliminar una parte del proyecto.
+-git reset --hard 960c6c2: este tambien nos sirve para viajar a cualquier commit aun que este borrado.
+-git reflog: Sirve para ver los commit  y modificaciones que se hicieron a pesar de que se haya borrado y asi poder sacar el codigo del commit al que queremos regresar.
+-git mv destruir-mundo.txt  salvar-mundo.txt: sirve para cambiar el nombre a un archivo. se coloca el comando git mv mas el nombre actual del archivo mas el nuevo nombre del archivo.
+-git rm salvar-mundo.txt: sirve para remover un archivo. Se coloca el comando git rm mas el nombre del archivo.
