@@ -1,0 +1,10 @@
+*Agregar archivos individuales.
+-git add*.png: Sirve para agregar todos los archivos png.
+-git add css/: Sirve para agregar todos los archivos o carpetas css.
+-git add -A: Sirve para agregar todos los arvhivos no registrados.
+-git reset *.xml: Sirve para excluir algun archivo no deceado solo se coloca git reset * mas la terminacion del archivo en este caso .xml.
+-git add "*.txt": Agrega todos los textos(txt) de todo proyecto.
+-git add *.txt: Agrega todos los textos(txt) del directorio actual.
+-git add --all: Agrega todos los archivos.
+-git add <lista de archivos>: Sirve para agregar los archivos que enlistemos.
+-git add  pdfs/*.pdf: Agrega todos los pdfs dentro de una carpeta pdfs.
