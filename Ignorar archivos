@@ -1,0 +1,3 @@
+ignorar archivos
+-git -u : sirve para actualizar la pagina por si borramos algo directamente en atom. siempre que se aga un cambio poner un git commit -m "".
+-para ignorar archivo se debe de crear una carpeta en atom llamada node-modules, se crea un archivo llamado .gitingnore  y guardamos con un commit y todo lo que pongamos en ese archivo lo ignora git pot ejemplo *.log todos los archivos .log los ignora git.
