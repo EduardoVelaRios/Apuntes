@@ -1,0 +1,7 @@
+*Comandos tag
+
+-tag: hace referencia a un commit y a todo el estado del proyecto en ese punto especifico.
+-git tag version 1: sirve para crear un tag. se coloca el comando git tag mas el nombre del tag
+-git tag: sirve para ver los tag que hemos creado.
+-git tag -d version 1: sirve para borrar los tag.
+-git tag -a version 0345d7de - m "version alfa": es para crear un tag en cualquier commit. solo se pone el comando git tag -a el numero del commit mas -m mas el mensaje "".
