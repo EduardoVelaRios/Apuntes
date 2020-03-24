@@ -1,0 +1,11 @@
+*stash
+-git stash: sirve para guardar los cambios del proyecto y poder hacer otra cosa sin perder nuestro avanse. para duespues continuar con lo que estabamos haciendo.
+-git stash list: es para ver la lista de stash que tenemos.
+-git stash pop: recupera los cambios que se hicieron en el stash.
+-git stash drop: sirve para borrar un stash que ya no ocupamos.
+-git stash apply: Restaura el ultimo registro del stash.
+-git stash drop stash@{2}: sirve para borrar un stash espesifico. se pone el comando git stash drop stash@ entre llaves el numero del stash {2}.
+-git stash save --keep-index: sirve para guardar todos los archivos en el stage o en el ecenario.
+-git stash save --include-untracked: sirve para incluir todos los archivos, junto a los que git no le da seguimiento.
+-git show stash@{2}:sirve para ver la informacion de un stash en epesifico. se coloca el comando git show stash@ mas elnumero del stash que deceamos en las llaves {2}.
+-git stash save "agregamos a loki en el stash": este sirve para guardar un stash pero con un nombre y asi poder identificar los stash mas rapdido.
