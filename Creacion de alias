@@ -1,0 +1,3 @@
+*para crear un alias.
+-git config --global alias.lg "log --oneline --decorate --all --graph" : sirve para crear un alias ahora solo se pone git lg.
+-git config --global alias.s "status -s -b": se pondra ahora solo git s y se pondra el comando status -s -b.
