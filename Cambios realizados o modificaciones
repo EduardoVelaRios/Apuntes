@@ -1,0 +1,5 @@
+*para saber los cambios que se hicieron.
+-git diff: Para ver los cambios que se realizaron en el commit anterior al de ahora.
+-git diff --staged: Sirve para verificar los archivos del staged.
+-git reset HEAD "Nombre del archivo": Sirve para sacar algun archivo del staged.
+-git checkout --README.md: sirve para regresar el archivo a una version anterioir del commit por si no te gusto o hubo algun error.
