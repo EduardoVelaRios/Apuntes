@@ -1,0 +1,7 @@
+*Creacion de ramificaciones.
+-git branch rama-villanos: este comando sirve para crear una rama. se coloca el comando git branch  mas el nombre de la rama.
+-git branch: Sirve para ver las ramas que se han creado.
+-git checkout -b rama-villanos: Sirve para pasar a la rama deceada. se coloca el comando git checkout mas el nombre de la rama.
+-git diff rama-villanos master: sirve para saber cual es la diferencia de una rama de otra rama
+-git merge rama-villanos: sirve para unir una rama al master para esto se debe estar en la rama master. se coloca el comando git merge  mas el nombre de la rama que se decea unir.
+-git branch -d rama-villanos: sirve para borrar una rama solo se pone el comando git branch -d mas el nombre de la rama.
