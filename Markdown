@@ -1,0 +1,29 @@
+Comandos del Markdown
+
+-Tamaño de textos:
+# h1
+## h2
+### h3
+#### h4
+###### h5
+Mientras menos gatos mas grande sera el texto.
+
+-Colocar cursiva:
+*Eduardo*
+_Eduardo_
+
+-Colocar negritas:
+**Eduardo**
+
+-Crear listas:
+1. AZUL
+2. VERDE
+3. ROJO
+
+O bien se pone *
+*AZUL
+*VERDE
+*ROJO
+
+Agregar imagen:
+![Reggae]https://www.google.com/search?q=REGGAE&safe=active&rlz=1C1CHBF_esMX892MX892&sxsrf=ALeKk00q-W6NjyOONP-KHr5YDl9mlpGhxw:1585601415348&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkt_fIicPoAhURQq0KHcXaCEAQ_AUoAnoECBQQBA&biw=1536&bih=723#imgrc=TBoYebPh9MASQM
