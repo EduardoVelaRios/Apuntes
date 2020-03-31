@@ -1,0 +1,7 @@
+Comandos de Git fetch y Git pull
+
+-Git fetch:Sirve para actualizar todos los cambios que se han hecho.
+
+-Git pull:Sirve para hacer un merge o unir ramas.
+
+-GIT push:Sirve para subir los cambios a Git hub.
