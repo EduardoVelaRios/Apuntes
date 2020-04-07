@@ -1,0 +1,7 @@
+*Fork y cloning
+
+-Fork: Sirve para tomar un repositorio y clonarlo a un lugar donde podamos tener total acceso a modificar el repositorio.
+
+-Cloning: Sirve para clonar un repositorio para modificarlo de manera local.
+
+-Pull Request: Sirve para guardar los cambios en Github y unirlo a la ramam master.
