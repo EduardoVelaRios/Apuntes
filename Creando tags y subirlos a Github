@@ -1,0 +1,4 @@
+*Creando tags y subirlos a Git hub
+
+-git tag -a version del tag(V1.0.0) -m "version 1 - nombre del tag": Sirve para crear un TAG
+-git push --tags: Sirve para subir los tags a Git hub
