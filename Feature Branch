@@ -1,0 +1,5 @@
+*Feature Branch
+-git pull --all: Sirve para descargar nuevos avances del repositorio de git gub.
+-git branch -a: Sirve para ver todas las ramas del repositorio.
+-git push origin nombre de rama: Sirve para subir los cambios realizados en el repositorio.
+-git branch -D nombre de rama: Sirve para borrar ramas que ya no se ocupan.
