@@ -1,0 +1,17 @@
+Comandos basicos HTML
+
+-<HTML> </HTML>: Sirve para iniciar y cerrar un documento html.
+-<HEAD> </HEAD>:Sirve para poner el encabezado.
+-<TITLE> </TITLE>:Sirve para colocar un texto.
+-<meta name="author" content="mi nombre">: Sirve para poner el autor de la pagina.
+-<meta name="description": sirve para dar una descripcion breve.
+-<BODY> </BODY>:Sirve para colocar todos los elementos de la pagina que se muestra en el navegador.
+-<BODY BGCOLOR="blue">: Sirve para poner el color al fondo de la pagina.
+-<BODY BACKGROUND="fondo.gif">: Sirve para poner una imagen de fondo.
+-<B></B>: Sirve para poner textos en negritas.
+-<U></U>: Sirve para subrayar textos.
+-<FONT SIZE="1,2,3,4,5">Tamaño de fuente </FONT>:Sirve para dar tamaño al texto.
+-<FONT COLOR="blue">Texto Azul</FONT>:sirve para dar color al texto.
+-<H1>Nivel 1</H1>:Sirve para poner encabezados aumenta el nuemro depende del tamaño de letra ejemplo <H2></H2>.
+-<CENTER></CENTER>: Sirve para centrar texto imagenes etc.
+-<BR>: Sirve para un salto entre lineas. 
